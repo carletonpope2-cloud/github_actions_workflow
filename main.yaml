@@ -1,6 +1,5 @@
 name: My GitHub Actions Workflow
 on: [push]
-branch: [main]
 
 jobs:
   testing_github:
